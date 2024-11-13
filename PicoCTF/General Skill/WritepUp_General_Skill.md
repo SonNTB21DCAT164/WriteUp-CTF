@@ -5,6 +5,7 @@
 -wget + paste link vào
 -ls xem tên file
 -dùng cat để đọc file vừa tải => done
+
 2.Python Wrangling:
 -cd Downloads
 -copy 3 link đề cho
@@ -14,6 +15,7 @@
 -ý tưởng là dùng file python để giải mã file flag bằng cách dùng lệnh:
 python <tên_file_python> -d <tên_file_flag>
 -sau đó nhập mật khẩu và cờ sẽ hiện => done
+
 3.Wave a flag:
 -cd Downloads 
 -copy link rồi wget, ls xem tên file
